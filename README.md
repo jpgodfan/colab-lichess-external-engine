@@ -1,4 +1,6 @@
-# Lichess external engine (Stockfish) via colab
+# Lichess external engine (Stockfish) via cloud services & platforms
+
+## Google Colab:
 
 Open form here:
 
